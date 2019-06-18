@@ -33,7 +33,7 @@ set_time_limit,ini_set,pcntl_alarm,pcntl_fork,pcntl_waitpid,pcntl_wait,pcntl_wif
 
 
 
-![2019-05-28 11-52-35 的屏幕截图](/home/aple/Documents/rctf2019/2019-05-28 11-52-35 的屏幕截图.png)
+![2019-05-28 11-52-35 的屏幕截图](2019-05-28 11-52-35 的屏幕截图.png)
 
 题目进行了限制目录，所以无法向上读取文件。
 

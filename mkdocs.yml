@@ -1,5 +1,5 @@
 site_name: MkLorum
 nav:
     - Home: index.md
-    - web: web.md
+    - web:  web.md
 theme: readthedocs
